@@ -1,0 +1,13 @@
+server:
+  port: 8090
+
+
+loans:
+  message: APIs related to loans microservice
+  contactDetails:
+    email: grega@devkishan.com
+    name: Amaal Grega
+  onCallSupport:
+    - (452) 123-453-290
+    - (546) 489-284-389
+

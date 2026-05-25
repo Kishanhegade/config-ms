@@ -1,0 +1,13 @@
+server:
+  port: 9000
+
+build:
+  version: "3.0"
+accounts:
+  message: "Welcome to EazyBank cards related local APIs"
+  contactDetails:
+    name: "Dragos Lech  - Developer"
+    email: "dragos@devkishan.com"
+  onCallSupport:
+    - (412) 265-3765
+    - (915) 734-8371

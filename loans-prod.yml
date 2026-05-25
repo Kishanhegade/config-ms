@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+loans:
+  message: "Welcome to Dev Kishan's loans related prod APIs"
+  contactDetails:
+    name: "Pelias Sudhir - Product Owner"
+    email: "pelias@devkishan.com"
+  onCallSupport:
+    - (732) 265-4829
+    - (156) 203-0384
