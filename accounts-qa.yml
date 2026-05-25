@@ -1,0 +1,10 @@
+build:
+  version: "2.5"
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs"
+  contactDetails:
+    name: "QA Team"
+    email: "qa@eazybank.com"
+  onCallSupport:
+    - (555) 123-4567
+    - (555) 987-6543
